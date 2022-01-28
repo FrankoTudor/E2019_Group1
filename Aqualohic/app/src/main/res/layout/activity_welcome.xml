@@ -40,7 +40,7 @@
         android:layout_marginEnd="84dp"
         android:layout_marginBottom="116dp"
         android:onClick="onButtonSignInClicked"
-        android:text="SIGN IN"
+        android:text="SIGN INS"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         tools:ignore="MissingConstraints" />
