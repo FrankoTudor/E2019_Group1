@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AquaHolic</string>
+    <string name="pref_notification_message_value">Hello time to drink some water</string>
+    <string name="add_info_text">Please provide some information about your profile in order to personalize your experience</string>
+    <string name="str_continue">Continue</string>
+    <string name="enter_your_name_hint">Name</string>
+    <string name="age_hint">Age</string>
+    <string name="weight_hint">Weight in Kilograms</string>
+    <string name="custom_intake_hint">Daily consumption goal in ML</string>
+    <string name="workout_hint">Daily physical activities or exercise duration in minutes</string>
+    <string name="wakeup_hint">Wake up time</string>
+    <string name="sleeping_hint">Bedtime</string>
+    <string name="tagline_text">How to properly maintain your hydration…</string>
+    <string name="get_started">Start</string>
+    <string name="edit_info_text">Edit your information</string>
+    <string name="update">Updates</string>
+    <string name="notif_setting_header">Notification Parameters</string>
+    <string name="notif_messsage_hint">Notification Message</string>
+    <string name="notif_tone_hint">Notification Sound</string>
+    <string name="notif_freq_hint">Notification Frequecy</string>
+    <string name="walkthrough_text_one">Water represents 60 percent of your total weight. Your body needs water to survive.
+    </string>
+    <string name="walkthough_text_two">Lack of water can lead to dehydration. Even a light form can affect your energy and accentuate your fatigue.
+    </string>
+    <string name="walkthrough_text_three">Every cell, tissue and organ in your body needs water to function properly.
+    </string>
+</resources>
